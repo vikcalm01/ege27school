@@ -1,0 +1,8 @@
+*.o
+*.layout
+*.cbp
+*.depend
+*.exe
+*.plist
+/main
+/main.dSYM/Contents/Resources/DWARF/main
